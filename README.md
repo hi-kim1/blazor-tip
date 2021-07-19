@@ -5,3 +5,9 @@
  * Dependency Injecttion(종속성 주입)
  * Scaffolding
  * Cascading
+
+### 1. 수명주기
+1. **SetParametersAsync**
+1. **OnInitializedAsync**
+1. **OnParametersSetAsync**
+1. **OnAfterRenderAsync**

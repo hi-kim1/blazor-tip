@@ -16,8 +16,8 @@ SetParametersAsync → OninitialzedAsync → OnParametersSetAsync 이 순서대�
 이 4가지 수명주기 메서드에 대해 알아봅시다.
 
 #### SetParametersAsync
-▪️ &nbsp; 렌더링 트리에서 구성 요소의 부모에 의해 제공 되는 매개 변수를 설정 합니다.
-▪️ &nbsp; Microsoft.AspNetCore.Components.WebAssembly.DevServer  
-▪️ &nbsp; Microsoft.AspNetCore.Components.WebAssembly.Authentication  
-▪️ &nbsp; Microsoft.Extensions.Http
+▪️ &nbsp; 렌더링 트리에서 구성 요소의 부모에 의해 제공 되는 매개 변수를 설정 합니다.    
+▪️ &nbsp;     
+▪️ &nbsp;     
+▪️ &nbsp;     
 

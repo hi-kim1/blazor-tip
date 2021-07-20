@@ -21,3 +21,6 @@ SetParametersAsync → OninitialzedAsync → OnParametersSetAsync 이 순서대�
 ▪️ &nbsp;     
 ▪️ &nbsp;     
 
+## Entity Framework
+#### _Entity Framework란?_
+C#과 같은 객체 지향형 프로그래밍 언어에서 데이터베이스를 쉽게 사용하기 위한 도구로 객체와 관계형 DB의 테이블을 매핑하여 (ADO.NET에서처럼 별도의 SQL 쿼리를 작성하지 않고도) 쉽게 데이터를 액세스할 수 있게 합니다.

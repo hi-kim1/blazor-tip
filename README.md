@@ -17,5 +17,5 @@ SetParametersAsync → OninitialzedAsync → OnParametersSetAsync 이 순서대�
 
 #### SetParametersAsync
 ▪️ &nbsp; 렌더링 트리에서 구성 요소의 부모에 의해 제공 되는 매개 변수를 설정 합니다.
-▪️ &nbsp;
-▪️ &nbsp;
+▪️ &nbsp;a
+▪️ &nbsp;a

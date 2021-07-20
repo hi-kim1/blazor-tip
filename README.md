@@ -68,3 +68,4 @@ namespace Intro
     }
 }
 ```
+[참고 사이트](https://docs.microsoft.com/ko-kr/ef/core/) 
